@@ -3,12 +3,12 @@
 /**
  * Contao Open Source CMS
  *
- * Copyright (C) 2005-2012 Leo Feyer
+ * Copyright (C) 2005-2013 Leo Feyer
  *
  * @package   DBCheck
  * @author    Sergey Dyagovchenko aka DyaGa
  * @license   GNU/LGPL
- * @copyright Sergey Dyagovchenko 2012
+ * @copyright Sergey Dyagovchenko 2012-2013
  */
 
 
