@@ -15,7 +15,7 @@
 /**
  * Back end modules
  */
-$GLOBALS['BE_MOD']['system']['dbcheck'] = array
+$GLOBALS['BE_MOD']['devtools']['dbcheck'] = array
 (
 	'callback'	=> 'ModuleDBCheck',
 	'icon'		=> 'system/modules/repository/themes/default/images/dbcheck16.png'
